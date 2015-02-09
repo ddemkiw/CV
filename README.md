@@ -47,15 +47,15 @@ _Global pioneer in Software-as-a-Service Messaging cloud solutions with more tha
 
 
 ###Office Services Supervisor / Project Coordinator	2010 – 2011
-####McCarthy Tetrault LLP , Vancouver, BC
+#####McCarthy Tetrault LLP , Vancouver, BC
 _National corporate law firm with over 600 employees nationally_
 
 ###Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
-####Murphy Battista LLP, Vancouver, BC
+#####Murphy Battista LLP, Vancouver, BC
 _Western Canada's only completely digital, boutique law firm_
 
 ###Department Librarian/Research Assistant 	2006 – 2007
-####University of Victoria, Victoria, BC
+#####University of Victoria, Victoria, BC
 _Top Canadian academic institution with a globally ranked philosophy department_
 
 
