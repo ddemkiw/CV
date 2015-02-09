@@ -51,7 +51,7 @@ _Software-as-a-Service Messaging cloud solutions with more than 20,000 customers
   -
 
 
-####Office Services Supervisor / Project Coordinator	2010 – 2011
+####Digital Archive Department Manager	2010 – 2011
 __[McCarthy Tetrault LLP](http://www.mccarthy.ca/home.aspx), Vancouver, BC__
 _National corporate law firm with over 600 employees nationally_
   - did some stuff
@@ -59,7 +59,7 @@ _National corporate law firm with over 600 employees nationally_
   - 
 
 
-####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
+####Central Services Supervisor 	2008 – 2010
 __[Murphy Battista LLP](http://www.murphybattista.com/), Vancouver, BC__
 _Western Canada's only completely digital, boutique law firm_
   - did some stuff
