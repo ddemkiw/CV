@@ -51,7 +51,7 @@ _Software-as-a-Service Messaging cloud solutions with more than 20,000 customers
   -
 
 
-####Admin Services Assistant Manager	2010 – 2011
+####Central Services Assistant Manager	2010 – 2011
 __[McCarthy Tetrault LLP](http://www.mccarthy.ca/home.aspx), Vancouver, BC__
 _National corporate law firm with over 600 employees nationally_
   - did some stuff
