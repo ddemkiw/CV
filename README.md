@@ -72,7 +72,10 @@ University of Victoria, Victoria, BC
 - contemporary art and design
 
 
-Email: 
+Email: ddemkiw@gmail.com
+
 Phone: 
+
 Software blog: 
-Twitter:
+
+Twitter: ddemkiw
