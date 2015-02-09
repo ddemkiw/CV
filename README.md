@@ -42,23 +42,25 @@ Learned cutting edge coding techniques and best practices from world class devel
 
 ##Professional Experience 
 
-#####Senior Trainer / Business Analyst	2012 – 2014
+####Senior Trainer / Business Analyst	2012 – 2014
 __[Global Relay: Messaging & Archiving Solutions](http://www.globalrelay.com/), Vancouver, BC__
 
 _Global pioneer in Software-as-a-Service Messaging cloud solutions with more than 20,000 customers globally, including 22 of the 25 top global banks_
 
 
-#####Office Services Supervisor / Project Coordinator	2010 – 2011
+####Office Services Supervisor / Project Coordinator	2010 – 2011
 __[McCarthy Tetrault LLP](http://www.mccarthy.ca/home.aspx), Vancouver, BC__
 
 _National corporate law firm with over 600 employees nationally_
 
-#####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
+
+####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
 __Murphy Battista LLP, Vancouver, BC__
 
 _Western Canada's only completely digital, boutique law firm_
 
-#####Department Librarian/Research Assistant 	2006 – 2007
+
+####Department Librarian/Research Assistant 	2006 – 2007
 __University of Victoria, Victoria, BC__
 
 _Top Canadian academic institution with a globally ranked philosophy department_
