@@ -1,7 +1,7 @@
 
 ##Danielle Demkiw
 
-I'm a junior level Software Developer with a background in Project Management and Technical Writing. 
+I'm a junior level Software Developer with a background in project management, technical writing and software support. Over the years I have become a seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. I am a published technical writer with a specialization in internal documentation. I also have several years experience as a software support professional, with a specialization in international clients.
 
 ###Code examples
 
