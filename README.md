@@ -1,9 +1,9 @@
 
-#Danielle Demkiw
+##Danielle Demkiw
 
 I'm a junior level Software Developer with a background in Project Management and Technical Writing. 
 
-##Code examples
+###Code examples
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -12,7 +12,8 @@ I'm a junior level Software Developer with a background in Project Management an
 | zebra stripes | are neat      |    $1 |
 
 
-##Makers Academy
+###[Makers Academy](http://www.makersacademy.com/)
+
 
 12 weeks immersive web development bootcamp: December 2014 - March 2015
 
@@ -42,27 +43,27 @@ Learned cutting edge coding techniques and best practices from world class devel
 ##Professional Experience 
 
 ###Senior Trainer / Business Analyst	2012 – 2014
-####Global Relay: Messaging & Archiving Solutions , Vancouver, BC
+__[Global Relay: Messaging & Archiving Solutions](http://www.globalrelay.com/), Vancouver, BC__
 _Global pioneer in Software-as-a-Service Messaging cloud solutions with more than 20,000 customers globally, including 22 of the 25 top global banks_
 
 
 ###Office Services Supervisor / Project Coordinator	2010 – 2011
-#####McCarthy Tetrault LLP , Vancouver, BC
+__[McCarthy Tetrault LLP](http://www.mccarthy.ca/home.aspx), Vancouver, BC__
 _National corporate law firm with over 600 employees nationally_
 
 ###Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
-#####Murphy Battista LLP, Vancouver, BC
+__Murphy Battista LLP, Vancouver, BC__
 _Western Canada's only completely digital, boutique law firm_
 
 ###Department Librarian/Research Assistant 	2006 – 2007
-#####University of Victoria, Victoria, BC
+__University of Victoria, Victoria, BC__
 _Top Canadian academic institution with a globally ranked philosophy department_
 
 
 ##Education
 
-B.A. (with Distinction): Philosophy and Sociology 	2007
-University of Victoria, Victoria, BC
+__B.A. (with Distinction): Philosophy and Sociology 	2007__
+_University of Victoria, Victoria, BC_
 
 
 ##Interests
@@ -72,10 +73,10 @@ University of Victoria, Victoria, BC
 - contemporary art and design
 
 
-Email: ddemkiw@gmail.com
+__Email:__ ddemkiw@gmail.com
 
-Phone: 
+__Phone:__ 
 
-Software blog: 
+__Software blog:__ 
 
-Twitter: ddemkiw
+__Twitter:__ @ddemkiw
