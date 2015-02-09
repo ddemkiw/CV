@@ -44,7 +44,7 @@ Learned cutting edge coding techniques and best practices from world class devel
 
 ####Senior Trainer / Business Analyst	2012 – 2014
 __[Global Relay: Messaging & Archiving Solutions](http://www.globalrelay.com/), Vancouver, BC__
-_Global pioneer in Software-as-a-Service Messaging cloud solutions with more than 20,000 customers globally, including 22 of the 25 top global banks_
+_Software-as-a-Service Messaging cloud solutions with more than 20,000 customers globally_
   - did some stuff
   - and some other things
   - 
