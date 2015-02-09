@@ -60,7 +60,7 @@ _National corporate law firm with over 600 employees nationally_
 
 
 ####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
-__Murphy Battista LLP, Vancouver, BC__
+__[Murphy Battista LLP](http://www.murphybattista.com/), Vancouver, BC__
 _Western Canada's only completely digital, boutique law firm_
   - did some stuff
   - and some other things
@@ -68,7 +68,7 @@ _Western Canada's only completely digital, boutique law firm_
 
 
 ####Department Librarian/Research Assistant 	2006 – 2007
-__University of Victoria, Victoria, BC__
+__[University of Victoria](http://www.uvic.ca/), Victoria, BC__
 _Top Canadian academic institution with a globally ranked philosophy department_
   - did some stuff
   - and some other things
