@@ -39,36 +39,38 @@ Learned cutting edge coding techniques and best practices from world class devel
 - Object­ oriented principles and design
 
 
-##Experience
+##Professional Experience 
+
+###Senior Trainer / Business Analyst	2012 – 2014
+####Global Relay: Messaging & Archiving Solutions , Vancouver, BC
+_Global pioneer in Software-as-a-Service Messaging cloud solutions with more than 20,000 customers globally, including 22 of the 25 top global banks_
 
 
-###JobName: Dates
+###Office Services Supervisor / Project Coordinator	2010 – 2011
+####McCarthy Tetrault LLP , Vancouver, BC
+_National corporate law firm with over 600 employees nationally_
 
-Description
+###Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
+####Murphy Battista LLP, Vancouver, BC
+_Western Canada's only completely digital, boutique law firm_
 
-###JobName: Dates
-
-Description
-
-###JobName: Dates
-
-Description
+###Department Librarian/Research Assistant 	2006 – 2007
+####University of Victoria, Victoria, BC
+_Top Canadian academic institution with a globally ranked philosophy department_
 
 
 ##Education
 
-###InstitutionName
-####Degree
-Description
-
+B.A. (with Distinction): Philosophy and Sociology 	2007
+University of Victoria, Victoria, BC
 
 
 ##Interests
 
-- stuff
-- things
-- stuff
-- things
+- snowboarding
+- contemporary litterature
+- contemporary art and design
+
 
 Email: 
 Phone: 
