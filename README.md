@@ -1,7 +1,7 @@
 
 #Danielle Demkiw
 
-A junior level Software Developer with a background in project management, technical writing and software support seaking a position at a company with a strong corporate environment that values teamwork and continuous learning. I am a published technical writer with a specialization in internal documentation as well as an experienced software support professional, with a focus on international clients. Long suffering victim of the travel bug, I have become an avid and seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. 
+A junior level Software Developer with a background in project management, technical writing and software support seaking a position in London with a company that has a strong corporate environment that values teamwork and continuous learning. I am a published technical writer with a specialization in internal documentation as well as an experienced software support professional, with a focus on international clients. Long suffering victim of the travel bug, I have become an avid and seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. 
 
 ##Professional Skills
 
