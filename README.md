@@ -7,16 +7,17 @@ A junior level Software Developer with a background in project management, techn
 
 ###Management & Business Consultation
 
+- Coordinated of a team of six employees in the Central Services Department at a boutique law firm in Vancouver
+- Assited in the management of a team of eight employees at internationally acclaimed software company specializing in enterprise information archiving
 - Responsible for designing and implementing internal processes and procedures for for teams from 6 to 26 employees 
 - Developed a positive team environment; implemented and maintained effective processes to ensure open, two-way communication
-- Worked closely with manager on various department projects including restructuring supply rooms and produced effective cost management
-- Responsible for overseeing the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communicationWorked closely with manager on various department projects including  restructuring supply rooms and produced effective cost management
-- Analyzed office procedures and designed new and efficient workflow systems,  ensuring faster turn around and high customer retention
-- Designed and created systems for customer feedback and continued department training
-- Provided support to managers by assisting with heavy workloads, attending seminars  on their behalf and providing reports on daily activities
+- Worked closely with manager on various department projects including hiring new personnel, training for new software lauches, designing effective procedures for CRM systems and implementing effective cost management systems
+- Analyzed office procedures and designed new and efficient workflow systems ensuring faster turn around and high customer retention
+- Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
 - Coordinated of a team of six employees in the Central Services Department at a boutique law firm in Vancouver
 - Selected, trained and supervised a team of four employees in the Digital Archive Department for the only completely digital law firm in Vancouver
 - Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
+- Responsible for overseeing the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communication
 
 
 ###Technical Writing 
