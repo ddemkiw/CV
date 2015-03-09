@@ -7,35 +7,29 @@ A junior level Software Developer with a background in project management, techn
 
 ###Management & Business Consultation
 
-- Coordinated of a team of six employees in the Central Services Department at a boutique law firm 
-- Selected, trained and supervised a team of four employees in the Digital Archive Department for the only completely digital law firm in Vancouver
-- supervised the punctual delivery of daily mail and maintained a high standard for professionally finished legal documents 
-- Designed and created systems for customer feedback and continued department training
-- Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
+- Responsible for designing and implementing internal processes and procedures for for teams from 6 to 26 employees 
 - Developed a positive team environment; implemented and maintained effective processes to ensure open, two-way communication
-
-- Responsible for designing and implementing internal processes and procedures for for teams from 6 to 26 employees. 
+- Worked closely with manager on various department projects including restructuring supply rooms and produced effective cost management
+- Responsible for overseeing the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communicationWorked closely with manager on various department projects including  restructuring supply rooms and produced effective cost management
+- Analyzed office procedures and designed new and efficient workflow systems,  ensuring faster turn around and high customer retention
+- Designed and created systems for customer feedback and continued department training
+- Provided support to managers by assisting with heavy workloads, attending seminars  on their behalf and providing reports on daily activities
+- Coordinated of a team of six employees in the Central Services Department at a boutique law firm in Vancouver
+- Selected, trained and supervised a team of four employees in the Digital Archive Department for the only completely digital law firm in Vancouver
+- Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
 
 
 ###Technical Writing 
 
-
-Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles.
-Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
-Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
-Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles.
-Developed and edited Murphy Battista LLP Archive Department Procedures Manual, 1st Edition, 2010
-Developed and edited The Philosophy Department Newsletter (2005 - 2007)
+-Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
+- Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles for the training team at Global Relay
+-Developed and edited Murphy Battista LLP Archive Department Procedures Manual, 1st Edition, 2010
 Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
-Developed and edited internal and external training and promotional publications for McCarthy Tetrault Office Services Department
+-Developed and edited internal and external training and promotional publications for McCarthy Tetrault Office Services Department
 Managed and supervised departments of 10+ personnel ensuring service  levels and time deadlines were met or exceeded
-Responsible for overseeing the adequate processing of over 1000 legal  documents daily to guarantee the proper flow of inter-office communication
-Worked closely with manager on various department projects including  restructuring supply rooms and produced effective cost management
-Regularly drafted official legal documents including but not limited to official letters,  memos and reports
-Analyzed office procedures and designed new and efficient workflow systems,  ensuring faster turn around and high customer retention
-Designed and created systems for customer feedback and continued department training
-Provided support to managers by assisting with heavy workloads, attending seminars  on their behalf and providing reports on daily activities
-Developed a positive team environment; implemented and maintained effective  processes to ensure open, two-way communication
+- Regularly drafted official legal documents including but not limited to official letters, memos and reports
+- Developed and edited The Philosophy Department Newsletter (2005 - 2007)
+
 
 ###Client Management 
 
