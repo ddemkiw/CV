@@ -1,21 +1,18 @@
 
 #Danielle Demkiw
 
-A junior level Software Developer with a background in project management, technical writing and software support seaking a position at a company with a strong corporate environment that values teamwork and continuous learning. I am a published technical writer with a specialization in internal documentation as well as an experienced software support professional, with a specialization in international clients. Long suffering victim of the travel bug, I have become an avid and seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. 
+A junior level Software Developer with a background in project management, technical writing and software support seaking a position at a company with a strong corporate environment that values teamwork and continuous learning. I am a published technical writer with a specialization in internal documentation as well as an experienced software support professional, with a focus on international clients. Long suffering victim of the travel bug, I have become an avid and seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. 
 
 ##Professional Skills
 
 ###Management & Business Consultation
 
+- Assited in the management of a team of eight employees at a Vancouver based software company that specialized in enterprise information archiving
+- Selected, trained and supervised a team of four employees in the Digital Archive Department for the only completely digital law firm in Vancouver
 - Coordinated of a team of six employees in the Central Services Department at a boutique law firm in Vancouver
-- Assited in the management of a team of eight employees at internationally acclaimed software company specializing in enterprise information archiving
-- Responsible for designing and implementing internal processes and procedures for for teams from 6 to 26 employees 
-- Developed a positive team environment; implemented and maintained effective processes to ensure open, two-way communication
+- Responsible for designing and implementing internal processes and procedures for for teams from six to twenty employees in various corporate environments
 - Worked closely with manager on various department projects including hiring new personnel, training for new software lauches, designing effective procedures for CRM systems and implementing effective cost management systems
 - Analyzed office procedures and designed new and efficient workflow systems ensuring faster turn around and high customer retention
-- Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
-- Coordinated of a team of six employees in the Central Services Department at a boutique law firm in Vancouver
-- Selected, trained and supervised a team of four employees in the Digital Archive Department for the only completely digital law firm in Vancouver
 - Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
 - Responsible for overseeing the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communication
 
