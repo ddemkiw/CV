@@ -19,7 +19,7 @@ A junior level Software Developer with a background in project management, techn
 
 ###Technical Writing 
 
--Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
+- Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
 - Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles for the training team at Global Relay
 -Developed and edited Murphy Battista LLP Archive Department Procedures Manual, 1st Edition, 2010
 Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
