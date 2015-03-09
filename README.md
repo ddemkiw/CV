@@ -41,19 +41,19 @@ Used a variety of resources including digital archives and internet accessible �
 ##Professional Experience 
 
 ####Business Analyst/ Senior Trainer	2012 – 2013
-Global Relay , Vancouver, BC /br
+#####Global Relay , Vancouver, BC
 Internationally acclaimed software company in enterprise information archiving
 
-####Corporate Trainer/Team Technical Writer	2012 – 2013
-Global Relay , Vancouver, BC /br
+####Corporate Trainer/Technical Writer	2012 – 2013
+#####Global Relay , Vancouver, BC
 Internationally acclaimed software company in enterprise information archiving
 
 ####Office Services Supervisor / Project Coordinator	2010 – 2011
-McCarthy Tetrault LLP , Vancouver, BC /br
+#####McCarthy Tetrault LLP , Vancouver, BC
 National corporate law firm with over 600 employees nationally
 
 ####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
-Murphy Battista LLP, Vancouver, BC /br
+#####Murphy Battista LLP, Vancouver, BC 
 Western Canada's only completely digital, boutique law firm
 
 
