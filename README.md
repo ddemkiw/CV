@@ -1,23 +1,29 @@
 
 #Danielle Demkiw
 
-I'm a junior level Software Developer with a background in project management, technical writing and software support. Over the years I have become a seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. I am a published technical writer with a specialization in internal documentation. I also have several years experience as a software support professional, with a specialization in international clients.
+A junior level Software Developer with a background in project management, technical writing and software support seaking a position at a company with a strong corporate environment that values teamwork and continuous learning. I am a published technical writer with a specialization in internal documentation as well as an experienced software support professional, with a specialization in international clients. Long suffering victim of the travel bug, I have become an avid and seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. 
 
 ##Professional Skills
 
 ###Management & Business Consultation
 
-Designed and created systems for customer feedback and continued department training
-Provided support to managers by assisting with heavy workloads, attending seminars  on their behalf and providing reports on daily activities
-Developed a positive team environment; implemented and maintained effective  processes to ensure open, two-way communication
-Click to edit position descriptionResponsible for training and consulting with all Global Relay clients in Europe and Asia
-Responsible for designing and implementing internal processes and procedures for Global Relay Training Department
-Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
-Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles.
+- Coordinated of a team of six employees in the Central Services Department at a boutique law firm 
+- Selected, trained and supervised a team of four employees in the Digital Archive Department for the only completely digital law firm in Vancouver
+- supervised the punctual delivery of daily mail and maintained a high standard for professionally finished legal documents 
+- Designed and created systems for customer feedback and continued department training
+- Provided support to managers by assisting with heavy workloads, attending seminars on their behalf and providing reports on daily activities
+- Developed a positive team environment; implemented and maintained effective processes to ensure open, two-way communication
+
+- Responsible for designing and implementing internal processes and procedures for for teams from 6 to 26 employees. 
 
 
 ###Technical Writing 
 
+
+Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles.
+Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
+Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
+Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles.
 Developed and edited Murphy Battista LLP Archive Department Procedures Manual, 1st Edition, 2010
 Developed and edited The Philosophy Department Newsletter (2005 - 2007)
 Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
@@ -33,27 +39,30 @@ Developed a positive team environment; implemented and maintained effective  p
 
 ###Client Management 
 
-Several years experience as a information architect and database manager in the legal field
-Designed and implemented client satisfaction survey; analyzed survey results and produced an official report outlining successes and areas for improvement
-Produced exemplary mixed methodology research paper for Dr. Andre Smith regarding the social mapping of the transit system in Victoria entitled, “Social Geography and Mapping. A Study in Mixed Methodology Research”. 2007
-Used a variety of resources including digital archives and internet accessible  data-bases to conduct research and produce official reports on academic topics
+Responsible for training and consulting with all Global Relay clients in Europe and Asia
+
+
+
 
 ##Professional Experience 
 
 ####Business Analyst/ Senior Trainer	2012 – 2013
-#####Global Relay , Vancouver, BC
+Global Relay , Vancouver, BC
 Internationally acclaimed software company in enterprise information archiving
+
 
 ####Corporate Trainer/Technical Writer	2012 – 2013
-#####Global Relay , Vancouver, BC
+Global Relay , Vancouver, BC
 Internationally acclaimed software company in enterprise information archiving
 
+
 ####Office Services Supervisor / Project Coordinator	2010 – 2011
-#####McCarthy Tetrault LLP , Vancouver, BC
+McCarthy Tetrault LLP , Vancouver, BC
 National corporate law firm with over 600 employees nationally
 
+
 ####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
-#####Murphy Battista LLP, Vancouver, BC 
+Murphy Battista LLP, Vancouver, BC 
 Western Canada's only completely digital, boutique law firm
 
 
