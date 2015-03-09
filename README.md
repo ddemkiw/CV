@@ -1,90 +1,60 @@
 
-##Danielle Demkiw
+#Danielle Demkiw
 
 I'm a junior level Software Developer with a background in project management, technical writing and software support. Over the years I have become a seasoned international traveler, with experience living in  Vancouver, Calgary, Hong Kong, Edinburgh and London. I am a published technical writer with a specialization in internal documentation. I also have several years experience as a software support professional, with a specialization in international clients.
 
-###Code examples
+##Professional Skills
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+###Management & Business Consultation
+
+Designed and created systems for customer feedback and continued department training
+Provided support to managers by assisting with heavy workloads, attending seminars  on their behalf and providing reports on daily activities
+Developed a positive team environment; implemented and maintained effective  processes to ensure open, two-way communication
+Click to edit position descriptionResponsible for training and consulting with all Global Relay clients in Europe and Asia
+Responsible for designing and implementing internal processes and procedures for Global Relay Training Department
+Actively consulted with Global Relay technical writing department to produce official Global Relay documentation including officially published FAQ documents
+Responsible for all internal documentation, including the design and continuous up-keep of the all wiki articles.
 
 
-###[Makers Academy](http://www.makersacademy.com/)
+###Technical Writing 
 
+Developed and edited Murphy Battista LLP Archive Department Procedures Manual, 1st Edition, 2010
+Developed and edited The Philosophy Department Newsletter (2005 - 2007)
+Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
+Developed and edited internal and external training and promotional publications for McCarthy Tetrault Office Services Department
+Managed and supervised departments of 10+ personnel ensuring service  levels and time deadlines were met or exceeded
+Responsible for overseeing the adequate processing of over 1000 legal  documents daily to guarantee the proper flow of inter-office communication
+Worked closely with manager on various department projects including  restructuring supply rooms and produced effective cost management
+Regularly drafted official legal documents including but not limited to official letters,  memos and reports
+Analyzed office procedures and designed new and efficient workflow systems,  ensuring faster turn around and high customer retention
+Designed and created systems for customer feedback and continued department training
+Provided support to managers by assisting with heavy workloads, attending seminars  on their behalf and providing reports on daily activities
+Developed a positive team environment; implemented and maintained effective  processes to ensure open, two-way communication
 
-12 weeks immersive web development bootcamp: December 2014 - March 2015
+###Client Management 
 
-Learned cutting edge coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
-
-- Nodejs
-- Ruby 2.1.1
-- Ruby on Rails 4
-- Sinatra
-- PostgreSQL
-- noSQL(redis, mongodb)
-- JavaScript, jQuery and AJAX
-- HTML5, CSS3 and Twitter Bootstrap 3
-- JSON
-- Unit testing with RSpec and Jasmine
-- Integration testing with Cucumber and Capybara
-- User authentication and authorisation with bcrypt
-- DataMapper and ActiveRecord
-- WebSockets
-- Integration of APIs including Twilio, Twitter, and GitHub
-- Version control with git
-- Deployment to Heroku
-- Agile values, principles and practices
-- Object­ oriented principles and design
-
+Several years experience as a information architect and database manager in the legal field
+Designed and implemented client satisfaction survey; analyzed survey results and produced an official report outlining successes and areas for improvement
+Produced exemplary mixed methodology research paper for Dr. Andre Smith regarding the social mapping of the transit system in Victoria entitled, “Social Geography and Mapping. A Study in Mixed Methodology Research”. 2007
+Used a variety of resources including digital archives and internet accessible  data-bases to conduct research and produce official reports on academic topics
 
 ##Professional Experience 
 
-####Senior Trainer / Business Analyst	2012 – 2014
-__[Global Relay: Messaging & Archiving Solutions](http://www.globalrelay.com/), Vancouver, BC__ - 
-_Software-as-a-Service Messaging cloud solutions with more than 20,000 customers globally_
-  - did some stuff
-  - and some other things
-  - 
-  -
+####Business Analyst/ Senior Trainer	2012 – 2013
+Global Relay , Vancouver, BC 
+Internationally acclaimed software company in enterprise information archiving
 
+####Corporate Trainer/Team Technical Writer	2012 – 2013
+Global Relay , Vancouver, BC
+Internationally acclaimed software company in enterprise information archiving
 
-####Central Services Assistant Manager	2010 – 2011
-__[McCarthy Tetrault LLP](http://www.mccarthy.ca/home.aspx), Vancouver, BC__ - 
-_National corporate law firm with over 600 employees nationally_
-  - did some stuff
-  - and some other things
-  - 
+####Office Services Supervisor / Project Coordinator	2010 – 2011
+McCarthy Tetrault LLP , Vancouver, BC
+National corporate law firm with over 600 employees nationally
 
-
-####Digital Archive Department Manager 	2008 – 2010
-__[Murphy Battista LLP](http://www.murphybattista.com/), Vancouver, BC__ - 
-_Western Canada's only completely digital, boutique law firm_
-  - did some stuff
-  - and some other things
-  - 
-
-
-####Department Librarian/Research Assistant 	2006 – 2007
-__[University of Victoria](http://www.uvic.ca/), Victoria, BC__ - 
-_Top Canadian academic institution with a globally ranked philosophy department_
-  - did some stuff
-  - and some other things
-  - 
-
-##Education
-
-__B.A. (with Distinction): Philosophy and Sociology 	2007__
-_University of Victoria, Victoria, BC_
-
-
-##Interests
-
-- snowboarding
-- contemporary litterature
-- contemporary art and design
+####Digital Archive Department Manager/Central Services Supervisor 	2008 – 2010
+Murphy Battista LLP, Vancouver, BC
+Western Canada's only completely digital, boutique law firm
 
 
 __Email:__ ddemkiw@gmail.com
