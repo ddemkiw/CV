@@ -19,7 +19,8 @@ Junior Software Developer with a background in project management, technical wri
   - designing effective procedures for CRM systems,and 
   - implementing effective cost management systems
 - Responsible for overseeing the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communication
-- Designed new workflow systems ensuring faster turnaround and higher customer retention Provided support to managers by assisting with heavy workloads and providing reports on daily activities
+- Designed new workflow systems ensuring faster turnaround and higher customer retention 
+- Provided support to managers by assisting with heavy workloads and providing reports on daily activities
 
 ##Technical Writing and Consultation
 - Actively consulted with Global Relay technical writing department to produce official Global Relay documentation, including officially published FAQ documents
