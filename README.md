@@ -1,17 +1,17 @@
-#DANIELLE DEMKIW 
+##DANIELLE DEMKIW 
 
-#PROFILE
+###PROFILE
 Junior Software Developer with a background in project management, technical writing and software support. Seeking a junior developer role in a strong corporate environment that values teamwork and continuous learning. Previous experience as a published technical writer with a specialisation in internal documentation and two years experience as a software support professional, with a focus on international clients. Long suffering victim of the travel bug, I have become a seasoned international traveler, with experience living in Vancouver, Calgary, Hong Kong, Edinburgh and London.
 
-#SKILLS
-##Software Developer
+##SKILLS
+###Software Developer
 - 12 weeks immersive web development bootcamp with in-depth introduction to such technologies as, Nodejs, Ruby, Ruby on Rails 4, Sinatra, JavaScript, jQuery, AJAX, Postgres SQL and mongoDB
 - Learned cutting edge coding techniques and best practices from world class developers, project- based test-driven work and pair programming.
 - Experienced version control with git
 - Adopted agile values, principles and practices
 - Dedicated to clean object oriented principles and design
 
-##Management & Business Consultation
+###Management & Business Consultation
 - Managed and coordinated teams from six to twenty-six people
 - Worked closely with manager on various department projects including:
   - hiring new personnel,
@@ -22,14 +22,14 @@ Junior Software Developer with a background in project management, technical wri
 - Designed new workflow systems ensuring faster turnaround and higher customer retention 
 - Provided support to managers by assisting with heavy workloads and providing reports on daily activities
 
-##Technical Writing
+###Technical Writing
 - Actively consulted with Global Relay technical writing department to produce official Global Relay documentation, including officially published FAQ documents
 - Responsible for all internal documentation, including the design and continuous up-keep of all wiki articles for the training team at Global Relay
 - Developed and edited Murphy Battista LLP Archive Department Procedures Manual
 - Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
 - Developed and edited internal and external training and promotional publications for McCarthy Tetrault Office Services Department
 
-##Client Management
+###Client Management
 - Responsible for training and consulting with all Global Relay clients in Europe and Asia
 - Provided superb customer service for Global Relay’s blue chip clients: handling customer calls, identifying customer needs, answering customer inquiries, and following up with customers on
 service issues
@@ -40,7 +40,7 @@ of products as well as ongoing customer support
 - Worked closely with other stakeholders to ensure our customers’ needs are exceeded
 - Maintained accurate customer interaction documentation and quality case management records
 
-#PROFESSIONAL EXPERIENCE
+##PROFESSIONAL EXPERIENCE
 ###Business Analyst/ Senior Trainer
 ######GLOBAL RELAY , VANCOUVER, BC
 Internationally acclaimed software company in enterprise information archiving
@@ -57,11 +57,11 @@ National corporate law firm with over 600 employees nationally
 ######MURPHY BATTISTA LLP, VANCOUVER, BC
 Western Canada's only completely digital, boutique law firm
 
-#EDUCATION
+##EDUCATION
 ###B.A. (Honours with Distinction): Philosophy and Sociology
 University of Victoria, Victoria, BC
 
-#INTERESTS 
+##INTERESTS 
 
 • Snowboarding
 • Contemporary Art & Design
