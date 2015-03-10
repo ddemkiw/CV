@@ -1,9 +1,12 @@
 #DANIELLE DEMKIW 
->TEL: 07730344711 Flat 2 – 53-55 Borough High St London UK SE1 1NE EMAIL: ddemkiw@gmail.com
+
+>TEL: 07730344711 Flat 2 – 53-55 Borough High St London UK SE1 1NE 
+>EMAIL: ddemkiw@gmail.com
+
 #PROFILE
 Junior Software Developer with a background in project management, technical writing and software support. Seeking a junior developer role in a strong corporate environment that values teamwork and continuous learning. Previous experience as a published technical writer with a specialisation in internal documentation and two years experience as a software support professional, with a focus on international clients. Long suffering victim of the travel bug, I have become a seasoned international traveler, with experience living in Vancouver, Calgary, Hong Kong, Edinburgh and London.
-#SKILLS
 
+#SKILLS
 ##Software Developer
 - 12 weeks immersive web development bootcamp with in-depth introduction to such technologies as, Nodejs, Ruby, Ruby on Rails 4, Sinatra, JavaScript, jQuery, AJAX, Postgres SQL and mongoDB
 - Learned cutting edge coding techniques and best practices from world class developers, project- based test-driven work and pair programming.
