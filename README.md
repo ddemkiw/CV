@@ -22,7 +22,7 @@ Junior Software Developer with a background in project management, technical wri
 - Designed new workflow systems ensuring faster turnaround and higher customer retention 
 - Provided support to managers by assisting with heavy workloads and providing reports on daily activities
 
-##Technical Writing and Consultation
+##Technical Writing
 - Actively consulted with Global Relay technical writing department to produce official Global Relay documentation, including officially published FAQ documents
 - Responsible for all internal documentation, including the design and continuous up-keep of all wiki articles for the training team at Global Relay
 - Developed and edited Murphy Battista LLP Archive Department Procedures Manual
