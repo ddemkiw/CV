@@ -64,4 +64,5 @@ University of Victoria, Victoria, BC
 ##INTERESTS 
 
 • Snowboarding
+
 • Contemporary Art & Design
