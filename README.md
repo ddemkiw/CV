@@ -29,7 +29,7 @@ Junior Software Developer with a background in project management, technical wri
 - Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
 - Developed and edited internal and external training and promotional publications for McCarthy Tetrault Office Services Department
 
-###Client Management
+###Client Management/Technical Trainer
 - Responsible for training and consulting with all Global Relay clients in Europe and Asia
 - Provided superb customer service for Global Relay’s blue chip clients: handling customer calls, identifying customer needs, answering customer inquiries, and following up with customers on
 service issues
