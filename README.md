@@ -42,7 +42,7 @@ of products as well as ongoing customer support
 - Maintained accurate customer interaction documentation and quality case management records
 
 ##PROFESSIONAL EXPERIENCE
-###Business Analyst/ Senior Trainer 2013-2014
+###Business Analyst/ Senior Trainer <div align="right">2013-2014<div>
 ######GLOBAL RELAY , VANCOUVER, BC
 Internationally acclaimed software company in enterprise information archiving
 
