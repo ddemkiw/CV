@@ -42,19 +42,19 @@ of products as well as ongoing customer support
 - Maintained accurate customer interaction documentation and quality case management records
 
 ##PROFESSIONAL EXPERIENCE
-###Business Analyst/ Senior Trainer <div align="right">2013-2014<div>
+###Business Analyst/ Senior Trainer <p align="right">2013-2014</p>
 ######GLOBAL RELAY , VANCOUVER, BC
 Internationally acclaimed software company in enterprise information archiving
 
-###Corporate Trainer/Team Technical Writer 2011-2013
+###Corporate Trainer/Team Technical Writer <p align="right">2011-2013</p>
 ######GLOBAL RELAY , VANCOUVER, BC
 Internationally acclaimed software company in enterprise information archiving
 
-###Office Services Supervisor / Project Coordinator 2010-2011
+###Office Services Supervisor / Project Coordinator <p align="right">2010-2011</p>
 ######MCCARTHY TETRAULT LLP , VANCOUVER, BC 
 National corporate law firm with over 600 employees nationally
 
-###Digital Archive Team Manager/Central Services Supervisor 2008-2010
+###Digital Archive Team Manager/Central Services Supervisor <p align="right">2008-2010</p>
 ######MURPHY BATTISTA LLP, VANCOUVER, BC
 Western Canada's only completely digital, boutique law firm
 
