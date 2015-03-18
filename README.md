@@ -19,9 +19,8 @@ Junior Software Developer with a background in project management, technical wri
   - designing effective procedures for CRM systems, and 
   - implementing effective cost management systems
 - Oversaw the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communication
+- Maintained high functioning team atmosphere that facilitated meeting tight deadlines in a high stakes environment
 - Designed new workflow systems ensuring faster turnaround and higher customer retention 
-- Provided support to managers by assisting with heavy workloads and providing reports on daily activities
-- Created high functioning team atmosphere that facilitated meeting tight deadlines in a high stakes environment
 
 ###Technical Writing
 - Actively consulted with Global Relay technical writing department to produce official Global Relay documentation, including officially published FAQ documents
@@ -54,7 +53,7 @@ Internationally acclaimed software company in enterprise information archiving
 ######MCCARTHY TETRAULT LLP , VANCOUVER, BC 
 National corporate law firm with over 600 employees nationally
 
-###Digital Archive Department Manager/Central Services Supervisor <div align="right" display="inline">2008-2010</div>
+###Digital Archive Department Manager/Central Services Supervisor <div align="right">2008-2010</div>
 ######MURPHY BATTISTA LLP, VANCOUVER, BC
 Western Canada's only completely digital, boutique law firm
 
