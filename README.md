@@ -42,19 +42,19 @@ of products as well as ongoing customer support
 - Maintained accurate customer interaction documentation and quality case management records
 
 ##PROFESSIONAL EXPERIENCE
-###Business Analyst/ Senior Trainer
+###Business Analyst/ Senior Trainer 2013-2014
 ######GLOBAL RELAY , VANCOUVER, BC
 Internationally acclaimed software company in enterprise information archiving
 
-###Corporate Trainer/Team Technical Writer
+###Corporate Trainer/Team Technical Writer 2011-2013
 ######GLOBAL RELAY , VANCOUVER, BC
 Internationally acclaimed software company in enterprise information archiving
 
-###Office Services Supervisor / Project Coordinator 
+###Office Services Supervisor / Project Coordinator 2010-2011
 ######MCCARTHY TETRAULT LLP , VANCOUVER, BC 
 National corporate law firm with over 600 employees nationally
 
-###Digital Archive Department Manager/Central Services Supervisor 
+###Digital Archive Department Manager/Central Services Supervisor 2008-2010
 ######MURPHY BATTISTA LLP, VANCOUVER, BC
 Western Canada's only completely digital, boutique law firm
 
@@ -64,6 +64,6 @@ University of Victoria, Victoria, BC
 
 ##INTERESTS 
 
-• Snowboarding
-
-• Contemporary Art & Design
+- Snowboarding
+- Contemporary Literature
+- Contemporary Art & Design
