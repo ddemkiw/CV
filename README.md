@@ -17,7 +17,7 @@ Junior Software Developer with a background in project management, technical wri
 - Worked closely with manager on various department projects including:
   - hiring new personnel,
   - internal training for new software launches,
-  - designing effective procedures for CRM systems,and 
+  - designing effective procedures for CRM systems, and 
   - implementing effective cost management systems
 - Responsible for overseeing the adequate processing of over 1000 legal documents daily to guarantee the proper flow of inter-office communication
 - Designed new workflow systems ensuring faster turnaround and higher customer retention 
@@ -25,7 +25,7 @@ Junior Software Developer with a background in project management, technical wri
 
 ###Technical Writing
 - Actively consulted with Global Relay technical writing department to produce official Global Relay documentation, including officially published FAQ documents
-- Responsible for all internal documentation, including the design and continuous up-keep of all wiki articles for the training team at Global Relay
+- Responsible for all internal documentation, including the design and continuous up-keep of over 200 wiki articles for the training team at Global Relay
 - Developed and edited Murphy Battista LLP Archive Department Procedures Manual
 - Responsible for writing all official Office Services Department communication for an audience of over 600 employees nationally
 - Developed and edited internal and external training and promotional publications for McCarthy Tetrault Office Services Department
