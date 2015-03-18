@@ -6,7 +6,7 @@ Junior Software Developer with a background in project management, technical wri
 ##SKILLS
 ###Software Developer
 - 12 weeks immersive web development bootcamp with in-depth introduction to such technologies as, Nodejs, Ruby, Ruby on Rails 4, Sinatra, JavaScript, jQuery, AJAX, Postgres SQL and mongoDB
-- Learned cutting edge coding techniques and best practices from world class developers, project- based test-driven work and pair programming.
+- Learned cutting edge coding techniques and best practices from world class developers, project- based, test-driven work and pair programming.
 - Experienced version control with git
 - Adopted agile values, principles and practices
 - Dedicated to clean, object oriented principles and design
