@@ -31,7 +31,7 @@ Junior Software Developer with a background in project management, technical wri
 
 ###Client Management/Technical Trainer
 - Responsible for training and consulting with all Global Relay clients in Europe and Asia
-- Provided superb customer service for Global Relay’s blue chip clients: handling customer calls, identifying customer needs, answering customer inquiries, and following up with customers on
+- Provided superb customer service for Global Relay’s blue chip clients: handling up-to 30 customer calls daily, identifying customer needs, answering customer inquiries, and following up with customers on
 service issues
 - Assisted customers in tailoring their accounts to suit their particular needs, in relation to their
 highly-regulated industry
