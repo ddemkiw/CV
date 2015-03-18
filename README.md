@@ -12,7 +12,7 @@ Junior Software Developer with a background in project management, technical wri
 - Dedicated to clean, object oriented principles and design
 
 ###Management & Business Consultation
-- Managed and coordinated teams from six to twenty-six people
+- Managed and coordinated teams from 6 to 26 people
 - Worked closely with manager on various department projects including:
   - hiring new personnel,
   - internal training for new software launches,
