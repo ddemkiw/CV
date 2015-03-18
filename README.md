@@ -9,7 +9,7 @@ Junior Software Developer with a background in project management, technical wri
 - Learned cutting edge coding techniques and best practices from world class developers, project- based test-driven work and pair programming.
 - Experienced version control with git
 - Adopted agile values, principles and practices
-- Dedicated to clean object oriented principles and design
+- Dedicated to clean, object oriented principles and design
 
 ###Management & Business Consultation
 - Managed and coordinated teams from six to twenty-six people
