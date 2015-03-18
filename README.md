@@ -54,7 +54,7 @@ Internationally acclaimed software company in enterprise information archiving
 ######MCCARTHY TETRAULT LLP , VANCOUVER, BC 
 National corporate law firm with over 600 employees nationally
 
-###Digital Archive Department Manager/Central Services Supervisor 2008-2010
+###Digital Archive Team Manager/Central Services Supervisor 2008-2010
 ######MURPHY BATTISTA LLP, VANCOUVER, BC
 Western Canada's only completely digital, boutique law firm
 
